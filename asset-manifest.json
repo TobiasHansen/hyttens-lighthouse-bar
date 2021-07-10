@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hyttens-lighthouse-bar/static/css/main.d417edf9.chunk.css",
+    "main.css": "/hyttens-lighthouse-bar/static/css/main.869ac474.chunk.css",
     "main.js": "/hyttens-lighthouse-bar/static/js/main.fa31ce30.chunk.js",
     "main.js.map": "/hyttens-lighthouse-bar/static/js/main.fa31ce30.chunk.js.map",
     "runtime-main.js": "/hyttens-lighthouse-bar/static/js/runtime-main.217e057d.js",
@@ -12,15 +12,14 @@
     "static/js/3.8590b082.chunk.js.map": "/hyttens-lighthouse-bar/static/js/3.8590b082.chunk.js.map",
     "index.html": "/hyttens-lighthouse-bar/index.html",
     "static/css/2.ba8a8a05.chunk.css.map": "/hyttens-lighthouse-bar/static/css/2.ba8a8a05.chunk.css.map",
-    "static/css/main.d417edf9.chunk.css.map": "/hyttens-lighthouse-bar/static/css/main.d417edf9.chunk.css.map",
-    "static/js/2.5edf361f.chunk.js.LICENSE.txt": "/hyttens-lighthouse-bar/static/js/2.5edf361f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/hyttens-lighthouse-bar/static/media/background.336751cd.jpeg"
+    "static/css/main.869ac474.chunk.css.map": "/hyttens-lighthouse-bar/static/css/main.869ac474.chunk.css.map",
+    "static/js/2.5edf361f.chunk.js.LICENSE.txt": "/hyttens-lighthouse-bar/static/js/2.5edf361f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.217e057d.js",
     "static/css/2.ba8a8a05.chunk.css",
     "static/js/2.5edf361f.chunk.js",
-    "static/css/main.d417edf9.chunk.css",
+    "static/css/main.869ac474.chunk.css",
     "static/js/main.fa31ce30.chunk.js"
   ]
 }
