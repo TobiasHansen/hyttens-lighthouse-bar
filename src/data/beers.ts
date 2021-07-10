@@ -14,6 +14,6 @@ export const beers: Drink[] = [
     {
         name: "Aass Bayer",
         description: "På boks. Aass Bayer er et nøttebrunt øl med søtlig og røstet aroma av korn og malt. Ølet har en fyldig smak med moderat sødme og balansert bitterhet.",
-        image: "aass-bayer.jpeg"
+        image: "aass-bayer.jpeg",
     },
 ]

@@ -2,16 +2,13 @@ import {Drink} from "../App";
 
 export const shots: Drink[] = [
     {
-        name: "Tequila",
+        name: "Fizzy Pop Shot - Rosa",
+        description: "Bubblizz, Russian Platinum",
         image: "shot-default.png"
     },
     {
-        name: "Platinum Vodka",
-        image: "shot-default.png"
-    },
-    {
-        name: "Saftvann",
-        description: "50/50 saft og vann",
+        name: "Fizzy Pop Shot - Blå",
+        description: "Bubblizz, Vodka, Russian Platinum",
         image: "shot-default.png"
     },
 ]

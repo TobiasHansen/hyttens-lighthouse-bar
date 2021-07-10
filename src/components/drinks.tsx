@@ -8,7 +8,9 @@ export const DrinkList = ({title, data}: { title: string,  data: Drink[] }) => (
         <Title level={2}>{title}</Title>
         <List
             itemLayout="vertical"
-            dataSource={data}
+            dataSource={
+                data.filter(drink => drink.inactive !== true)
+            }
             style={{maxWidth: "1200px"}}
             grid={{
                 gutter: 16,

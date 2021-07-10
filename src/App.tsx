@@ -11,6 +11,7 @@ export interface Drink {
     name: string;
     description?: string;
     image: string;
+    inactive?: boolean;
 }
 
 function App() {
