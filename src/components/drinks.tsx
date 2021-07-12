@@ -22,7 +22,7 @@ export const DrinkList = ({title, data}: { title: string,  data: Drink[] }) => (
                 xxl: 2,
             }}
             renderItem={item => (
-                <div style={{display: "flex", width: "95%", marginLeft: "10px", marginRight: "10px", alignContent: "space-between"}}>
+                <div style={{display: "flex", width: "95%", marginTop: "5px", marginLeft: "10px", marginRight: "10px", alignContent: "space-between"}}>
                     <Typography style={{width: "100%"}}>
                         <Title level={3}>{item.name}</Title>
                         <Paragraph>{item.description}</Paragraph>
@@ -31,6 +31,11 @@ export const DrinkList = ({title, data}: { title: string,  data: Drink[] }) => (
                         src={process.env.PUBLIC_URL + '/images/' + item.image}
                         alt={item.name + " drink"}
                         height={100}
+                        style={{
+                            ...(item.border === true ? {
+                                borderRadius: "10px"
+                            } : {})
+                        }}
                     />
                 </div>
             )}

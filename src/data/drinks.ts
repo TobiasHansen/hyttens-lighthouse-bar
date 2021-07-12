@@ -4,22 +4,26 @@ export const drinks: Drink[] = [
     {
         name: "Sabeltann",
         description: "Fireball, Captain Morgan, Limejuice, Simple sirup, Cola",
-        image: "drink-default.jpeg"
+        image: "sabeltann.jpg",
+        border: true
     },
     {
         name: "Blue Lagoon",
         description: "Blue Curacao, Russian Platinum Vodka, Lemonade",
-        image: "drink-default.jpeg"
+        image: "blue-lagoon.jpg",
+        border: true
     },
     {
         name: "Grønn stær",
         description: "Malibu, Midori, Urge, lime juice",
-        image: "drink-default.jpeg"
+        image: "green-staer.jpg",
+        border: true
     },
     {
         name: "Eplekake",
         description: "Fireball, Apple Sour, Simple sirup, lime juice",
-        image: "drink-default.jpeg"
+        image: "eplekake.jpg",
+        border: true
     },
     {
         name: "Strawberry Daiquiri",
@@ -34,6 +38,7 @@ export const drinks: Drink[] = [
     {
         name: "East Side",
         description: "Harahorn Gin, Agurk, Mynte, Lime juice, Simple sirup",
-        image: "drink-default.jpeg"
+        image: "east-side.jpg",
+        border: true
     },
 ]

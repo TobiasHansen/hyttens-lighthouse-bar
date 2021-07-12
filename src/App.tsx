@@ -12,12 +12,28 @@ export interface Drink {
     description?: string;
     image: string;
     inactive?: boolean;
+    border?: boolean;
 }
 
 function App() {
     return (
         <div className="App">
-            <Title underline>Hytten`s Lighthouse Bar</Title>
+
+            <Title underline style={{marginTop: "5px"}}>
+                <img
+                    src={process.env.PUBLIC_URL + '/images/lighthouse.jpeg'}
+                    alt="Lighthouse"
+                    height={40}
+                    style={{marginBottom: "8px"}}
+                />
+                Hytten`s Lighthouse Bar
+                <img
+                    src={process.env.PUBLIC_URL + '/images/lighthouse.jpeg'}
+                    alt="Lighthouse"
+                    height={40}
+                    style={{marginBottom: "8px"}}
+                />
+            </Title>
             <div style={{maxWidth: "800px"}}>
                 <DrinkList title="Drinks" data={drinks}/>
                 <Divider/>
