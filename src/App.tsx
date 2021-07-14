@@ -62,7 +62,7 @@ function App() {
                     height={40}
                     style={{marginBottom: "8px"}}
                 />
-                Hytten`s Lighthouse Bar
+                Lighthouse Bar
                 <img
                     src={process.env.PUBLIC_URL + '/images/lighthouse.jpeg'}
                     alt="Lighthouse"
