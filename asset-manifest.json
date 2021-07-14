@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hyttens-lighthouse-bar/static/css/main.3920333e.chunk.css",
-    "main.js": "/hyttens-lighthouse-bar/static/js/main.9641abd3.chunk.js",
-    "main.js.map": "/hyttens-lighthouse-bar/static/js/main.9641abd3.chunk.js.map",
+    "main.js": "/hyttens-lighthouse-bar/static/js/main.e8c479e1.chunk.js",
+    "main.js.map": "/hyttens-lighthouse-bar/static/js/main.e8c479e1.chunk.js.map",
     "runtime-main.js": "/hyttens-lighthouse-bar/static/js/runtime-main.d31a66d5.js",
     "runtime-main.js.map": "/hyttens-lighthouse-bar/static/js/runtime-main.d31a66d5.js.map",
     "static/css/2.ba8a8a05.chunk.css": "/hyttens-lighthouse-bar/static/css/2.ba8a8a05.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.ba8a8a05.chunk.css",
     "static/js/2.aadf197c.chunk.js",
     "static/css/main.3920333e.chunk.css",
-    "static/js/main.9641abd3.chunk.js"
+    "static/js/main.e8c479e1.chunk.js"
   ]
 }
